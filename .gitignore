@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+models/*.joblib
+models/*.keras
+models/*.json
+data/raw/*
+!data/raw/crop/
+!data/raw/soil/
+
+# Frontend build/deps
+node_modules/
+frontend/dist/
+
+# Archived copies of the project folders
+*.zip
+
+.DS_Store
+.pytest_cache/

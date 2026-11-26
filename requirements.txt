@@ -1,0 +1,10 @@
+Flask>=3.1,<4
+numpy>=2.0,<2.2
+pandas>=3.0,<3.1
+scikit-learn>=1.9,<2
+joblib>=1.6,<2
+shap>=0.51,<0.52
+Pillow>=12,<13
+tensorflow>=2.19,<2.20
+kagglehub>=1.0,<2
+pytest>=9,<10

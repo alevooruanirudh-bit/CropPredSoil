@@ -1,0 +1,1276 @@
+[
+  {
+    "crop": "Rice",
+    "major_category": "Field Crops – Cereals",
+    "crop_group": "Rice",
+    "varieties": "Basmati; Pusa Basmati 1121; Pusa Basmati 1509; Pusa Basmati 1718; Swarna; Samba Mahsuri; BPT 5204; Jaya; IR64",
+    "system_notes": "Wetland/paddy systems; irrigated or rainfed; kharif and some rabi/summer systems."
+  },
+  {
+    "crop": "Wheat",
+    "major_category": "Field Crops – Cereals",
+    "crop_group": "Wheat",
+    "varieties": "HD 2967; HD 3226; DBW 187; DBW 222; PBW 343; WH 1105; HD 3086; Pusa Kiran (HS 542)",
+    "system_notes": "Primarily rabi; cool-season field crop."
+  },
+  {
+    "crop": "Maize / Corn",
+    "major_category": "Field Crops – Cereals",
+    "crop_group": "Maize",
+    "varieties": "HQPM-1; DHM 117; QPM types; hybrid maize; sweet corn; baby corn; popcorn",
+    "system_notes": "Kharif/rabi/spring depending on region; grain, feed and processing."
+  },
+  {
+    "crop": "Jowar / Sorghum",
+    "major_category": "Field Crops – Cereals",
+    "crop_group": "Sorghum",
+    "varieties": "Maldandi (M-35-1); CSV series; CSH hybrids; forage sorghum",
+    "system_notes": "Grain and fodder; important in dryland agriculture."
+  },
+  {
+    "crop": "Bajra / Pearl Millet",
+    "major_category": "Field Crops – Millets",
+    "crop_group": "Pearl millet",
+    "varieties": "HHB series; GHB series; ICMV series; hybrid pearl millet",
+    "system_notes": "Hot, dryland crop; kharif; grain and fodder."
+  },
+  {
+    "crop": "Ragi / Finger Millet",
+    "major_category": "Field Crops – Millets",
+    "crop_group": "Finger millet",
+    "varieties": "GPU series; ML series; PR series; Indaf series",
+    "system_notes": "Dryland and hill crop; grain and malt/food uses."
+  },
+  {
+    "crop": "Foxtail Millet",
+    "major_category": "Field Crops – Millets",
+    "crop_group": "Small millets",
+    "varieties": "SiA varieties; SIA 3085 and other improved lines",
+    "system_notes": "Short-duration dryland cereal."
+  },
+  {
+    "crop": "Little Millet",
+    "major_category": "Field Crops – Millets",
+    "crop_group": "Small millets",
+    "varieties": "Kodo/little millet improved lines; OLM series",
+    "system_notes": "Dryland, short-duration crop."
+  },
+  {
+    "crop": "Kodo Millet",
+    "major_category": "Field Crops – Millets",
+    "crop_group": "Small millets",
+    "varieties": "JK series; GPU/other regional lines",
+    "system_notes": "Hardy dryland millet."
+  },
+  {
+    "crop": "Barnyard Millet",
+    "major_category": "Field Crops – Millets",
+    "crop_group": "Small millets",
+    "varieties": "VL series; CO series; regional improved types",
+    "system_notes": "Short-duration millet; grain and fodder."
+  },
+  {
+    "crop": "Proso Millet",
+    "major_category": "Field Crops – Millets",
+    "crop_group": "Small millets",
+    "varieties": "Improved proso millet lines",
+    "system_notes": "Dryland small millet."
+  },
+  {
+    "crop": "Barley",
+    "major_category": "Field Crops – Cereals",
+    "crop_group": "Barley",
+    "varieties": "DWR series; RD series; BH series",
+    "system_notes": "Rabi cereal; feed, malt and food."
+  },
+  {
+    "crop": "Buckwheat",
+    "major_category": "Field Crops – Cereals",
+    "crop_group": "Pseudo-cereals",
+    "varieties": "Common buckwheat; tartary buckwheat; regional Himalayan types",
+    "system_notes": "Cool-season/hill crop; not a true grass cereal."
+  },
+  {
+    "crop": "Grain Amaranth / Rajgira",
+    "major_category": "Field Crops – Pseudo-cereals",
+    "crop_group": "Amaranth",
+    "varieties": "GA series; local grain amaranth types",
+    "system_notes": "Potential/nutri-crop; grain and leaf use."
+  },
+  {
+    "crop": "Chickpea / Gram",
+    "major_category": "Field Crops – Pulses",
+    "crop_group": "Pulses",
+    "varieties": "Desi; Kabuli; JG 11; JG 14; Pusa 372; Pusa 391",
+    "system_notes": "Protein-rich pulse; variety choice varies strongly by agro-climatic zone."
+  },
+  {
+    "crop": "Pigeon Pea / Arhar / Tur",
+    "major_category": "Field Crops – Pulses",
+    "crop_group": "Pulses",
+    "varieties": "ICPL series; Asha (ICPL 87119); Maruti; BDN series",
+    "system_notes": "Protein-rich pulse; variety choice varies strongly by agro-climatic zone."
+  },
+  {
+    "crop": "Green Gram / Moong",
+    "major_category": "Field Crops – Pulses",
+    "crop_group": "Pulses",
+    "varieties": "Pusa Vishal; Pusa Ratna; IPM 02-3; SML series",
+    "system_notes": "Protein-rich pulse; variety choice varies strongly by agro-climatic zone."
+  },
+  {
+    "crop": "Black Gram / Urad",
+    "major_category": "Field Crops – Pulses",
+    "crop_group": "Pulses",
+    "varieties": "PU series; Pant U-19; VBN series",
+    "system_notes": "Protein-rich pulse; variety choice varies strongly by agro-climatic zone."
+  },
+  {
+    "crop": "Lentil / Masur",
+    "major_category": "Field Crops – Pulses",
+    "crop_group": "Pulses",
+    "varieties": "PL series; DPL series; IPL series",
+    "system_notes": "Protein-rich pulse; variety choice varies strongly by agro-climatic zone."
+  },
+  {
+    "crop": "Field Pea / Matar",
+    "major_category": "Field Crops – Pulses",
+    "crop_group": "Pulses",
+    "varieties": "Arkel; Azad P-1; Pusa Pragati; IPFD series",
+    "system_notes": "Protein-rich pulse; variety choice varies strongly by agro-climatic zone."
+  },
+  {
+    "crop": "Cowpea / Lobia",
+    "major_category": "Field Crops – Pulses",
+    "crop_group": "Pulses",
+    "varieties": "Pusa Komal; C-152; VU series",
+    "system_notes": "Protein-rich pulse; variety choice varies strongly by agro-climatic zone."
+  },
+  {
+    "crop": "Horse Gram / Kulthi",
+    "major_category": "Field Crops – Pulses",
+    "crop_group": "Pulses",
+    "varieties": "CRIDA/AK/HP regional types; improved horsegram lines",
+    "system_notes": "Protein-rich pulse; variety choice varies strongly by agro-climatic zone."
+  },
+  {
+    "crop": "Moth Bean / Matki",
+    "major_category": "Field Crops – Pulses",
+    "crop_group": "Pulses",
+    "varieties": "RMO series; CAZRI regional types",
+    "system_notes": "Protein-rich pulse; variety choice varies strongly by agro-climatic zone."
+  },
+  {
+    "crop": "Lathyrus / Khesari",
+    "major_category": "Field Crops – Pulses",
+    "crop_group": "Pulses",
+    "varieties": "Ratan; Prateek; improved low-ODAP lines",
+    "system_notes": "Protein-rich pulse; variety choice varies strongly by agro-climatic zone."
+  },
+  {
+    "crop": "Faba Bean / Bakla",
+    "major_category": "Field Crops – Pulses",
+    "crop_group": "Pulses",
+    "varieties": "Vicia faba local and improved lines",
+    "system_notes": "Protein-rich pulse; variety choice varies strongly by agro-climatic zone."
+  },
+  {
+    "crop": "Kidney Bean / Rajma",
+    "major_category": "Field Crops – Pulses",
+    "crop_group": "Pulses",
+    "varieties": "Red; speckled; white; Jammu/Kashmir and Himalayan types",
+    "system_notes": "Protein-rich pulse; variety choice varies strongly by agro-climatic zone."
+  },
+  {
+    "crop": "Cluster Bean / Guar",
+    "major_category": "Field Crops – Pulses",
+    "crop_group": "Pulses",
+    "varieties": "RGC series; HG series",
+    "system_notes": "Protein-rich pulse; variety choice varies strongly by agro-climatic zone."
+  },
+  {
+    "crop": "Indian Bean / Hyacinth Bean",
+    "major_category": "Field Crops – Pulses",
+    "crop_group": "Pulses",
+    "varieties": "Local pole/bush types; improved regional lines",
+    "system_notes": "Protein-rich pulse; variety choice varies strongly by agro-climatic zone."
+  },
+  {
+    "crop": "Groundnut / Peanut",
+    "major_category": "Oilseeds & Oil Crops",
+    "crop_group": "Oilseed / Oil-bearing crops",
+    "varieties": "TAG 24; TG 37A; GG 20; ICGV series",
+    "system_notes": "Seed or fruit used for edible/industrial oils; annual field crops and perennial palms both included."
+  },
+  {
+    "crop": "Mustard / Rapeseed",
+    "major_category": "Oilseeds & Oil Crops",
+    "crop_group": "Oilseed / Oil-bearing crops",
+    "varieties": "Pusa Jai Kisan; Pusa Bold; Varuna; Kranti; Giriraj; Indian mustard types",
+    "system_notes": "Seed or fruit used for edible/industrial oils; annual field crops and perennial palms both included."
+  },
+  {
+    "crop": "Soybean",
+    "major_category": "Oilseeds & Oil Crops",
+    "crop_group": "Oilseed / Oil-bearing crops",
+    "varieties": "JS 9560; JS 20-29; JS 335; NRC 142; MACS 1407",
+    "system_notes": "Seed or fruit used for edible/industrial oils; annual field crops and perennial palms both included."
+  },
+  {
+    "crop": "Sunflower",
+    "major_category": "Oilseeds & Oil Crops",
+    "crop_group": "Oilseed / Oil-bearing crops",
+    "varieties": "KBSH hybrids; Morden; MSFH series",
+    "system_notes": "Seed or fruit used for edible/industrial oils; annual field crops and perennial palms both included."
+  },
+  {
+    "crop": "Sesame / Til",
+    "major_category": "Oilseeds & Oil Crops",
+    "crop_group": "Oilseed / Oil-bearing crops",
+    "varieties": "TKG series; GT series; RT series; local white/black sesame",
+    "system_notes": "Seed or fruit used for edible/industrial oils; annual field crops and perennial palms both included."
+  },
+  {
+    "crop": "Safflower / Kusum",
+    "major_category": "Oilseeds & Oil Crops",
+    "crop_group": "Oilseed / Oil-bearing crops",
+    "varieties": "A1; Bhima; PBNS series",
+    "system_notes": "Seed or fruit used for edible/industrial oils; annual field crops and perennial palms both included."
+  },
+  {
+    "crop": "Linseed / Flax",
+    "major_category": "Oilseeds & Oil Crops",
+    "crop_group": "Oilseed / Oil-bearing crops",
+    "varieties": "T-397; Neelum; Shekhar; JLS series",
+    "system_notes": "Seed or fruit used for edible/industrial oils; annual field crops and perennial palms both included."
+  },
+  {
+    "crop": "Castor",
+    "major_category": "Oilseeds & Oil Crops",
+    "crop_group": "Oilseed / Oil-bearing crops",
+    "varieties": "GCH hybrids; DCH hybrids; GAUCH series",
+    "system_notes": "Seed or fruit used for edible/industrial oils; annual field crops and perennial palms both included."
+  },
+  {
+    "crop": "Niger",
+    "major_category": "Oilseeds & Oil Crops",
+    "crop_group": "Oilseed / Oil-bearing crops",
+    "varieties": "JNC series; JNS series; local niger types",
+    "system_notes": "Seed or fruit used for edible/industrial oils; annual field crops and perennial palms both included."
+  },
+  {
+    "crop": "Oil Palm",
+    "major_category": "Oilseeds & Oil Crops",
+    "crop_group": "Oilseed / Oil-bearing crops",
+    "varieties": "Tenera hybrids; Dura/Pisifera breeding parents",
+    "system_notes": "Seed or fruit used for edible/industrial oils; annual field crops and perennial palms both included."
+  },
+  {
+    "crop": "Coconut",
+    "major_category": "Oilseeds & Oil Crops",
+    "crop_group": "Oilseed / Oil-bearing crops",
+    "varieties": "West Coast Tall; East Coast Tall; Chowghat Orange Dwarf; Chowghat Green Dwarf; hybrid palms",
+    "system_notes": "Seed or fruit used for edible/industrial oils; annual field crops and perennial palms both included."
+  },
+  {
+    "crop": "Cotton",
+    "major_category": "Commercial & Fibre Crops",
+    "crop_group": "Fibre / sugar / commercial",
+    "varieties": "Desi cotton; American upland; Bt hybrids; long-staple types",
+    "system_notes": "Commercial field crops for fibre, sugar, nicotine or industrial raw material."
+  },
+  {
+    "crop": "Jute",
+    "major_category": "Commercial & Fibre Crops",
+    "crop_group": "Fibre / sugar / commercial",
+    "varieties": "Tossa jute; White jute; JRO/JRC types",
+    "system_notes": "Commercial field crops for fibre, sugar, nicotine or industrial raw material."
+  },
+  {
+    "crop": "Mesta",
+    "major_category": "Commercial & Fibre Crops",
+    "crop_group": "Fibre / sugar / commercial",
+    "varieties": "Roselle/kenaf types",
+    "system_notes": "Commercial field crops for fibre, sugar, nicotine or industrial raw material."
+  },
+  {
+    "crop": "Sugarcane",
+    "major_category": "Commercial & Fibre Crops",
+    "crop_group": "Fibre / sugar / commercial",
+    "varieties": "Co 0238; Co 86032; CoC 671; Co 0118; regional Co series",
+    "system_notes": "Commercial field crops for fibre, sugar, nicotine or industrial raw material."
+  },
+  {
+    "crop": "Tobacco",
+    "major_category": "Commercial & Fibre Crops",
+    "crop_group": "Fibre / sugar / commercial",
+    "varieties": "FCV tobacco; bidi tobacco; chewing tobacco; cigar/filler types",
+    "system_notes": "Commercial field crops for fibre, sugar, nicotine or industrial raw material."
+  },
+  {
+    "crop": "Kenaf",
+    "major_category": "Commercial & Fibre Crops",
+    "crop_group": "Fibre / sugar / commercial",
+    "varieties": "Hibiscus cannabinus fibre types",
+    "system_notes": "Commercial field crops for fibre, sugar, nicotine or industrial raw material."
+  },
+  {
+    "crop": "Mango",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Alphonso; Kesar; Dashehari; Langra; Chausa; Banganapalli; Totapuri; Himsagar; Amrapali; Mallika; CISH Ambika; CISH Arunika",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Banana",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Grand Naine; Robusta; Rasthali; Poovan; Nendran; Red Banana; Ney Poovan; Monthan; Yelakki",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Apple",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Red Delicious; Royal Delicious; Gala; Fuji; Granny Smith; Golden Delicious; Ambri; regional Himalayan types",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Orange / Sweet Orange",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Nagpur Santra; Mosambi; Valencia; Sathgudi; Jaffa; local sweet-orange selections",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Mandarin",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Nagpur mandarin; Kinnow; Khasi mandarin; Coorg mandarin",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Lemon",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Kagzi lime; Eureka; Lisbon; Assam lemon; Pant Lemon",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Lime",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Kagzi lime; Rangpur lime; acid lime selections",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Guava",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Allahabad Safeda; Lucknow-49; Lalit; Shweta; Arka Amulya; Arka Kiran",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Grape",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Thompson Seedless; Sonaka; Tas-A-Ganesh; Sharad Seedless; Anab-e-Shahi; Bangalore Blue",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Pomegranate",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Bhagwa; Ganesh; Mridula; Arakta; Ruby",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Papaya",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Pusa Delicious; Pusa Nanha; Red Lady; Arka Surya; Arka Prabhath",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Pineapple",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Kew; Queen; Mauritius; Giant Kew",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Watermelon",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Sugar Baby; Arka Manik; Arka Muthu; hybrid seedless types",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Muskmelon",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Hara Madhu; Pusa Madhuras; Durgapura Madhu; hybrid types",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Jackfruit",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Singapore/Ceylon; local soft-flesh; local firm-flesh; hybrid selections",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Custard Apple",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Balanagar; Arka Sahan; local Sitaphal selections",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Sapota / Chikoo",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Cricket Ball; Kalipatti; DHS-1; CO 1; Pala",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Litchi",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Shahi; China; Muzaffarpur; Rose Scented; Bedana",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Ber",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Umran; Gola; Seb; Kaithali; Banarasi Karaka",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Aonla / Indian Gooseberry",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "NA-7; Kanchan; Krishna; Chakaiya",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Bael",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "NB-5; NB-9; Thar Divya; Thar Prakriti",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Fig",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Poona Fig; Dinkar; Brown Turkey; Black Mission",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Avocado",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Arka Supreme; Arka Coorg Ravi; Fuerte; Hass",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Peach",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Shan-e-Punjab; Flordasun; Red June; Himalayan types",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Plum",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Santa Rosa; Kala Amritsari; Satluj Purple; Titron",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Pear",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Patharnakh; Baggugosha; Le Conte; Bartlett; Punjab Beauty",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Apricot",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "New Castle; Halman; Moorpark; local Ladakh/Himachal types",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Strawberry",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Chandler; Sweet Charlie; Camarosa; Winter Dawn",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Passion Fruit",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Purple; Yellow; Kaveri",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Kiwi",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Hayward; Allison; Bruno; Abbott",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Dragon Fruit",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "White-fleshed; red-fleshed; yellow-skinned types",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Rambutan",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Rongrien and other Southeast Asian selections grown in southern India",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Jamun",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Rajamun; Konkan Bahadoli; local black-fruited types",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Karonda",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Local selections; Pant Manohar; improved karonda types",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Kokum",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Goa Kokum selections; local Western Ghats types",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Tamarind",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "PKM-1; Urigam; local sweet/sour types",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Phalsa",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Local phalsa selections",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Mulberry",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "S-36; S-54; V-1; Mysore local types",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Wood Apple",
+    "major_category": "Horticulture – Fruits",
+    "crop_group": "Fruit Crops",
+    "varieties": "Local bael/kaitha selections",
+    "system_notes": "Orchard/perennial crop; generally managed as trees/vines with pruning, irrigation and multi-year production."
+  },
+  {
+    "crop": "Tomato",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Arka Rakshak; Arka Samrat; Pusa Ruby; Pusa Hybrid-4; Himsona; hybrid types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Potato",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Kufri Jyoti; Kufri Chandramukhi; Kufri Pukhraj; Kufri Surya; Kufri Chipsona; Kufri Bahar",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Onion",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "N-53; Agrifound Dark Red; Bhima Super; Bhima Shakti; Bhima Kiran; Bhima Raj",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Garlic",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Yamuna Safed; G-1; G-282; Bhima Omkar; Bhima Purple",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Brinjal / Eggplant",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Pusa Purple Long; Pusa Hybrid-5; Arka Nidhi; Arka Navneet; local round/long types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Okra / Bhindi",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Pusa Sawani; Arka Anamika; Arka Abhay; Parbhani Kranti",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Chilli",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Pusa Jwala; Pant C-1; Byadgi; Guntur types; Teja; Kashmiri types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Capsicum",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "California Wonder; Arka Mohini; Arka Gaurav; Arka Basant; coloured bell peppers",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Cauliflower",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Pusa Snowball; Pusa Snowball K-1; Pusa Hybrid-2; Arka Kanti",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Cabbage",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Golden Acre; Pusa Drum Head; Pusa Mukta; hybrid cabbage",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Knol-khol",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "White Vienna; Purple Vienna; local types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Carrot",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Pusa Kesar; Pusa Rudhira; New Kuroda; Nantes types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Radish",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Pusa Chetki; Pusa Desi; Japanese White; Mino Early",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Turnip",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Purple Top White Globe; Pusa Chandrima; local types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Beetroot",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Detroit Dark Red; Crimson Globe; local/improved types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Peas",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Arkel; Bonneville; Pusa Pragati; Azad P-1; AP-3",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "French Bean",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Contender; Arka Komal; Arka Suvidha; bush and pole types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Cluster Bean",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Pusa Navbahar; RGC series; HG series",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Cucumber",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Pusa Uday; Pusa Hybrid-1; Pant Khira-1; hybrid parthenocarpic types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Pumpkin",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Pusa Vishwas; Arka Chandan; Arka Suryamukhi; local types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Bottle Gourd",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Pusa Naveen; Pusa Santushti; Arka Bahar; hybrid types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Bitter Gourd",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Pusa Do Mausami; Arka Harit; Priya; hybrid types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Ridge Gourd",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Pusa Nasdar; Arka Sujat; hybrid types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Sponge Gourd",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Pusa Chikni; local smooth types; hybrid types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Ash Gourd / Wax Gourd",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Pusa Ujwal; Kashi Dhawal; local wax-gourd types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Snake Gourd",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "CO-1; Pusa Chikni; local long-fruited types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Drumstick / Moringa",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "PKM-1; PKM-2; ODC selections; perennial local types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Amaranth (leafy)",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Arka Arunima; Arka Suguna; red and green leafy types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Spinach / Palak",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "All Green; Pusa Harit; Punjab Green; local types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Fenugreek (leafy)",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Pusa Early Bunching; Kasuri methi; local types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Celery",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Local/improved temperate types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Lettuce",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Iceberg; Romaine; Butterhead; leaf lettuce",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Broccoli",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Green Head; Palam Samridhi; Pusa Broccoli KTS-1; hybrid types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Asparagus",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Mary Washington; improved asparagus types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Sweet Corn",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Madhuri; Sugar-75; hybrid sweet corn",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Baby Corn",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Early maturing hybrid types; G-5414 and similar hybrids",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Sweet Potato",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Sree Bhadra; Sree Arun; Sree Rethna; CO-3",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Taro / Colocasia",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Sree Rashmi; Sree Kiran; local taro types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Yam / Dioscorea",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Sree Priya; Sree Keerthi; greater yam and elephant-foot yam types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Elephant Foot Yam",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Gajendra; Sree Athira; local types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Tapioca / Cassava",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "H-165; H-226; Sree Jaya; Sree Vijaya; Sree Prabha",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Yam Bean / Jicama",
+    "major_category": "Horticulture – Vegetables",
+    "crop_group": "Vegetable / Tuber Crops",
+    "varieties": "Local/improved tropical root types",
+    "system_notes": "Includes annual vegetables, leafy vegetables and vegetable/root crops; systems range from open-field beds to protected cultivation."
+  },
+  {
+    "crop": "Coconut",
+    "major_category": "Perennial & Plantation Crops",
+    "crop_group": "Plantation / Beverage",
+    "varieties": "West Coast Tall; East Coast Tall; Chowghat Orange Dwarf; Chowghat Green Dwarf; hybrids",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Arecanut / Betel Nut",
+    "major_category": "Perennial & Plantation Crops",
+    "crop_group": "Plantation / Beverage",
+    "varieties": "Mangala; Sumangala; Mohitnagar; Swarnamangala",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Cashew",
+    "major_category": "Perennial & Plantation Crops",
+    "crop_group": "Plantation / Beverage",
+    "varieties": "Vengurla series; Ullal series; Goa selections; BPP series",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Rubber",
+    "major_category": "Perennial & Plantation Crops",
+    "crop_group": "Plantation / Beverage",
+    "varieties": "RRII 105; RRII 414; RRIM 600; PB 260",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Tea",
+    "major_category": "Perennial & Plantation Crops",
+    "crop_group": "Plantation / Beverage",
+    "varieties": "Assamica; China type; clonal tea selections",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Coffee – Arabica",
+    "major_category": "Perennial & Plantation Crops",
+    "crop_group": "Plantation / Beverage",
+    "varieties": "S-795; Cauvery; Chandragiri; Selection 9",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Coffee – Robusta",
+    "major_category": "Perennial & Plantation Crops",
+    "crop_group": "Plantation / Beverage",
+    "varieties": "S-274; CxR hybrids; regional Robusta clones",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Cocoa",
+    "major_category": "Perennial & Plantation Crops",
+    "crop_group": "Plantation / Beverage",
+    "varieties": "CCRP series; VTL selections; hybrid cocoa types",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Oil Palm",
+    "major_category": "Perennial & Plantation Crops",
+    "crop_group": "Plantation / Beverage",
+    "varieties": "Tenera hybrids; commercial high-yielding hybrid palms",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Black Pepper",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "Panniyur-1; Panniyur-5; Karimunda; Sreekara; Subhakara",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Cardamom",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "Malabar; Mysore; Vazhukka; Njallani",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Turmeric",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "Prabha; Prathibha; IISR Prathibha; Salem; Alleppey Finger",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Ginger",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "Rio-de-Janeiro; Nadia; IISR Varada; IISR Rejatha; Himachal types",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Cumin",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "GC-1; GC-4; RZ-19; RZ-209",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Coriander",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "CO-1; Gujarat Coriander-2; Pant Haritima; RCr series",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Fennel",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "Gujarat Fennel-1; RF-101; GF-11",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Fenugreek",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "Kasuri methi; Pusa Early Bunching; Lam Selection",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Mustard / Indian Mustard",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "Varuna; Pusa Jai Kisan; Pusa Bold; Kranti",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Ajwain",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "AA-1; Lam Ajwain-1; local types",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Clove",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "Local/introduced clonal selections",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Cinnamon",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "Konkan Tej; Navasri selection; local cinnamon",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Nutmeg",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "Konkan Sugandha; Konkan Surabhi; local selections",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Star Anise",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "Introduced hill selections; limited cultivation",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Saffron",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "Kashmir saffron; Pampore selections",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Vanilla",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "Bourbon/Madagascar types; local cured vanilla selections",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Tamarind",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "PKM-1; Urigam; local sweet/sour types",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Isabgol / Psyllium",
+    "major_category": "Spices & Condiments",
+    "crop_group": "Spices & Condiments",
+    "varieties": "GI-1; RI-1; RI-2",
+    "system_notes": "Mostly perennial plantation/tree crops or spice crops; orchard/plantation spacing and long-duration management are typical."
+  },
+  {
+    "crop": "Ashwagandha",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Medicinal & Aromatic Plants",
+    "varieties": "JA-20; Poshita; local medicinal selections",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Aloe vera",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Medicinal & Aromatic Plants",
+    "varieties": "Aloe barbadensis types; commercial clones",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Senna",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Medicinal & Aromatic Plants",
+    "varieties": "Tinnevelly senna; local selections",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Isabgol",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Medicinal & Aromatic Plants",
+    "varieties": "GI-1; RI-1; RI-2",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Mentha / Mint",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Medicinal & Aromatic Plants",
+    "varieties": "Kosi; Shivalik; Himalaya; menthol-rich clones",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Citronella",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Medicinal & Aromatic Plants",
+    "varieties": "Java citronella; Manjusha",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Lemongrass",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Medicinal & Aromatic Plants",
+    "varieties": "Pragati; Praman; CKP-25; CIMAP Suwarna",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Palmarosa",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Medicinal & Aromatic Plants",
+    "varieties": "Trishna; PRC-1; CIMAP Harsh",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Vetiver",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Medicinal & Aromatic Plants",
+    "varieties": "KS-1; Sugandha; regional selections",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Stevia",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Medicinal & Aromatic Plants",
+    "varieties": "Stevia rebaudiana commercial clones",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Kalmegh",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Medicinal & Aromatic Plants",
+    "varieties": "CIM-Megha; local selections",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Shatavari",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Medicinal & Aromatic Plants",
+    "varieties": "Improved medicinal lines; local types",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Brahmi",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Medicinal & Aromatic Plants",
+    "varieties": "CIM-Jagriti; local Bacopa types",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Marigold",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Floriculture",
+    "varieties": "Pusa Narangi Gainda; Pusa Basanti Gainda; African and French types",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Rose",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Floriculture",
+    "varieties": "Desi rose; Damask rose; Hybrid Tea; Floribunda",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Jasmine",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Floriculture",
+    "varieties": "Mogra; Jathi; Gundumalli; regional types",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Chrysanthemum",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Floriculture",
+    "varieties": "Poona selection; Ratlam types; commercial hybrids",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Gladiolus",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Floriculture",
+    "varieties": "Arka Naveen; Arka Amar; commercial hybrids",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Tuberose",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Floriculture",
+    "varieties": "Single; Double; Rajat Rekha; Vaibhav",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Gerbera",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Floriculture",
+    "varieties": "Arka Ashwa; Arka Nesara; commercial protected-cultivation hybrids",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Orchid",
+    "major_category": "Specialized Horticulture",
+    "crop_group": "Floriculture",
+    "varieties": "Dendrobium; Cymbidium; Phalaenopsis; Vanda",
+    "system_notes": "Often grown as commercial horticulture; many aromatic/medicinal crops are cultivated in open fields, while flowers may use protected structures."
+  },
+  {
+    "crop": "Berseem",
+    "major_category": "Forage & Fodder Crops",
+    "crop_group": "Animal Feed",
+    "varieties": "Mescavi; Wardan; BL-10",
+    "system_notes": "Grown primarily for livestock feed; annual, perennial and multi-cut systems occur."
+  },
+  {
+    "crop": "Lucerne / Alfalfa",
+    "major_category": "Forage & Fodder Crops",
+    "crop_group": "Animal Feed",
+    "varieties": "Anand-2; RL-88; Siriver",
+    "system_notes": "Grown primarily for livestock feed; annual, perennial and multi-cut systems occur."
+  },
+  {
+    "crop": "Napier-Bajra Hybrid",
+    "major_category": "Forage & Fodder Crops",
+    "crop_group": "Animal Feed",
+    "varieties": "CO-3; CO-4; CO-5; NB-21",
+    "system_notes": "Grown primarily for livestock feed; annual, perennial and multi-cut systems occur."
+  },
+  {
+    "crop": "Guinea Grass",
+    "major_category": "Forage & Fodder Crops",
+    "crop_group": "Animal Feed",
+    "varieties": "Panicum maximum types; CO selections",
+    "system_notes": "Grown primarily for livestock feed; annual, perennial and multi-cut systems occur."
+  },
+  {
+    "crop": "Cowpea Fodder",
+    "major_category": "Forage & Fodder Crops",
+    "crop_group": "Animal Feed",
+    "varieties": "CO-5; UPC series",
+    "system_notes": "Grown primarily for livestock feed; annual, perennial and multi-cut systems occur."
+  },
+  {
+    "crop": "Oat Fodder",
+    "major_category": "Forage & Fodder Crops",
+    "crop_group": "Animal Feed",
+    "varieties": "Kent; OS-6; OL series",
+    "system_notes": "Grown primarily for livestock feed; annual, perennial and multi-cut systems occur."
+  },
+  {
+    "crop": "Fodder Maize",
+    "major_category": "Forage & Fodder Crops",
+    "crop_group": "Animal Feed",
+    "varieties": "African Tall; J-1006; hybrid forage maize",
+    "system_notes": "Grown primarily for livestock feed; annual, perennial and multi-cut systems occur."
+  },
+  {
+    "crop": "Fodder Sorghum",
+    "major_category": "Forage & Fodder Crops",
+    "crop_group": "Animal Feed",
+    "varieties": "Pusa Chari; COFS-29; multi-cut sorghum",
+    "system_notes": "Grown primarily for livestock feed; annual, perennial and multi-cut systems occur."
+  }
+]
